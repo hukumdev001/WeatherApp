@@ -1,0 +1,18 @@
+export const colors = {
+  primary: '#E60B53',
+  secondary: '#222222',
+  ternary: '#ffffff',
+  accentPrimary: '#faa719',
+  accentSecondary: '#E8E8E8',
+  error: '#ff0033',
+  success: '#22bb33',
+  blue: '#8dc7eb',
+  dark: '#000000',
+  light: '#ffffff',
+  lightGrey: '#afafaf',
+  darkGrey: '#545454',
+  background: '#f5f5f5',
+  papertheme: '#F54214',
+  transparent: 'transparent',
+  gradient: 'rgba(251, 235, 243, 0.4)',
+};
